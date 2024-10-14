@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">TrainingSession</string>
+    <string name="title_text">Тренировки по фитнесу</string>
+    <string name="back">Вернуться</string>
+    <string name="exit">Выход</string>
+    <string name="monthes_to_birthday">Месяцев до дня рождения</string>
+    <string name="age">Возраст</string>
+    <string name="exercise_title">Название упражнения</string>
+    <string name="run_exercise">Выполнить упражнение</string>
+    <string name="time_run">Время выполнения</string>
+    <string name="text_choice">Выберете упражнение</string>
+    <string name="text_nogi">Упражнения на развитие ног</string>
+    <string name="go_exercise">Переход к тренировке</string>
+    <string name="text_telo">Упражнения на развитие корпуса</string>
+    <string name="text_ruki">Упражнения на развитие рук</string>
+    <string name="text_exercises">Упражнения</string>
+</resources>

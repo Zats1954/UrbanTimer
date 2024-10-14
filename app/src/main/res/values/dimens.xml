@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="title_size">20sp</dimen>
+    <dimen name="margin">10dp</dimen>
+    <dimen name="image_dimension">100dp</dimen>
+    <dimen name="height_image">200dp</dimen>
+    <dimen name="margin_">5dp</dimen>
+    <dimen name="text_size">15sp</dimen>
+    <dimen name="timer_size">40sp</dimen>
+    <dimen name="timer_margin">40dp</dimen>
+</resources>
