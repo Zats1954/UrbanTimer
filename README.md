@@ -1,0 +1,2 @@
+MyTrainingSession программа для UrbanUniversity
+реализация CountDownTimer, GIF animation
